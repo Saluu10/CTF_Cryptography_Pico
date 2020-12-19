@@ -22,3 +22,7 @@
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
 ![equation](https://latex.codecogs.com/gif.latex?%5Cvarphi%20%28n%29)
+
+
+# Miller-Rabin Kiểm tra số nguyên tố lớn
+
