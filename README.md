@@ -26,3 +26,4 @@
 
 # Miller-Rabin Kiểm tra số nguyên tố lớn
 
+\frac{1}{2}
