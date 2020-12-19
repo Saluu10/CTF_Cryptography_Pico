@@ -27,3 +27,5 @@
 # Miller-Rabin Kiểm tra số nguyên tố lớn
 
 \frac{1}{2}
+
+![img](http://www.sciweavers.org/tex2img.php?eq=%20%5Cvec%7Ba%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img])
