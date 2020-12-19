@@ -8,7 +8,13 @@
   **Tool and web**
 # RSA (Rivest–Shamir–Adleman)
   ## **Tạo khóa** <br>
+     * Chọn hai số nguyên phân biệt p,q
+     * Tính toán n=p*q
+     * Tính phi(n)=số các số nguyên dương nhỏ hơn n và nguyên tố cùng nhau với n (phi(n)=(p-1)(q-1))
+     * Chọn e sao cho 1<e<phi(n) và gcd(e,)
+     |
+     * ![](https://latex.codecogs.com/gif.latex?%5Cvarphi%20%28n%29)
   ## **Key distribution-Phân phối khóa**<br>
   ## **Encryption**<br>
   ## **Decryption**<br>
- 
+      
