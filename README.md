@@ -27,4 +27,4 @@
 
 $ \frac{1}{2} $
 $ \varphi(n) $
-$$ \varphi(n) $$
+$$\varphi(n)$$
